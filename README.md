@@ -11,6 +11,7 @@ Adem ÖZER
 System make decisions about symptoms and diseases using NLP methods and user input. First, taken input from user then sends to model that compare datas. System apply some NLP methods like stemming and tokenization. Stemmed and tokenized words are compares with dataset values. Exact matches increase possibility of right disease detection.
 
 ## Project Dependencies
+```
 import pandas as pd
 import re
 import glob,csv
@@ -25,6 +26,7 @@ import nltk
 from nltk.corpus import stopwords
 import itertools
 import operator
+```
 
 ## Datasets
 Dataset took at Kaggle and translated using Google Translate API.
