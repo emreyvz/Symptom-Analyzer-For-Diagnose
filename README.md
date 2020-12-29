@@ -8,7 +8,7 @@ Adem ÖZER
 
 
 ## Project Details
-System make decisions about symptoms and diseases using NLP methods and user input. First, taken input from user then sends to model that compare datas. System apply some NLP methods like stemming and tokenization. Stemmed and tokenized words are compares with dataset values. Exact matches increase possibility of right disease detection.
+System make decisions about symptoms and diseases using NLP methods and user input. First, taken input from user sends to model that compare datas. System apply some NLP methods like stemming and tokenization. Stemmed and tokenized words are compares with dataset values. Exact matches increase possibility of right disease detection.
 
 ## Project Dependencies
 ```
